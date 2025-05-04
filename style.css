@@ -96,7 +96,7 @@ font-size: 30px;
     color: black;
     font-size: 1.75rem;
     font-weight: bold;
-    padding: 10px 12px;
+    
     white-space: nowrap;
    
   }
@@ -235,7 +235,7 @@ margin-top: 30px;
 color: #fff;
 background-color: #000;
 text-decoration: none;
-margin-left: 700px;
+margin-left: 650px;
 object-fit: cover;
 
 
