@@ -2,6 +2,7 @@
     padding: 0%;
     margin: 0%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
 }
 body{
     background-color: white;
@@ -75,21 +76,28 @@ font-size: 30px;
     border: 1px solid rgb(252, 235, 252);
     background-color:rgb(252, 235, 252);
     border-width: 20px;
+    padding: 10px 20px;
+    position: relative;
   }
-  .types{
+  .menu-toggle{
+    display: none;
+    font-size: 28px;
+    cursor: pointer;
+  }
+  .nav-links{
     display: flex;
-    align-content: center;
-    align-items: center;
     flex-wrap: wrap;
     justify-content: space-around;
+    
   }
-  .types a{
-     padding: 0 20px;
-    margin-right: 32px;
+  .nav-links a{
+  
     text-decoration: none;
     color: black;
-    font-size: 25px;
+    font-size: 1.75rem;
     font-weight: bold;
+    padding: 10px 12px;
+    white-space: nowrap;
    
   }
   .main-image img{
