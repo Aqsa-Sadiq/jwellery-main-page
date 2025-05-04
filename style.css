@@ -65,7 +65,7 @@ font-size: 30px;
     
   }
   .right {
-   margin-left: 500px;
+   margin-left: 300px;
   }
   .right i{
     margin: 3px;
@@ -227,12 +227,23 @@ margin-top: 30px;
     color: #555;
   }
   .shop-more{
-    font-size: 22px;
+    /* font-size: 22px;
     font-weight: bold;
-   margin-left: 800px;
+   padding: 10px 20px;
 color: #fff;
 background-color: #000;
 text-decoration: none;
+margin-left: 700px;
+object-fit: cover; */
+font-size: 22px;
+font-weight: bold;
+margin-left: 770px;
+color: #fff;
+background-color: #000;
+text-decoration: none;
+margin-right: 550px;
+margin-bottom: 30px;
+margin-top: 30px;
 
 
    
